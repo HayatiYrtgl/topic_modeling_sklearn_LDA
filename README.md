@@ -1,6 +1,7 @@
+# WHAT IS Latent Dirichlet Allocation (LDA) MODEL ? 
 Latent Dirichlet Allocation (LDA) is a generative probabilistic model used in natural language processing (NLP) and machine learning for topic modeling. Developed by David Blei, Andrew Ng, and Michael Jordan in 2003, LDA aims to uncover hidden thematic structures, or "topics," within a collection of documents.
 
-Here's a simplified explanation of how LDA works:
+**Here's a simplified explanation of how LDA works:**
 
 1. **Assumptions**:
    - LDA assumes that each document is a mixture of various topics, and each word within the document is attributable to one of these topics.
